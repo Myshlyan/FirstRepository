@@ -1,3 +1,4 @@
 goodbye
 line form user2
 123
+critical bug fix
